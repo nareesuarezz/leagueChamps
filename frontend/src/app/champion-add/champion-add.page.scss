@@ -1,0 +1,50 @@
+ion-header {
+    ion-toolbar {
+      ion-title {
+        font-size: 24px;
+      }
+    }
+  }
+  
+  ion-content {
+    ion-tabs {
+      ion-tab-bar {
+        ion-tab-button {
+          ion-icon {
+            font-size: 24px;
+          }
+        }
+      }
+  
+      ion-header {
+        ion-toolbar {
+          ion-title {
+            font-size: 24px;
+          }
+        }
+      }
+    }
+  
+    .form {
+      ion-item {
+        ion-label {
+          font-size: 18px;
+        }
+        ion-input {
+          font-size: 18px;
+        }
+      }
+  
+      .error {
+        ion-text {
+          font-size: 14px;
+        }
+      }
+  
+      .add-button {
+        font-size: 20px;
+        margin-top: 20px;
+      }
+    }
+  }
+  

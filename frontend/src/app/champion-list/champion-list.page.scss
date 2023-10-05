@@ -1,0 +1,43 @@
+.custom-label {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.custom-input {
+    width: 500px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.home-button {
+    margin: 0 auto;
+    padding: 40px;
+    width: 300px;
+
+}
+
+.add-button {
+    margin: 0 auto;
+    padding: 40px;
+    width: 300px;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.form{
+    display: flex;
+    margin: 0 auto;
+    padding: 6em;
+
+}
